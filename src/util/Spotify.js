@@ -86,10 +86,6 @@ const Spotify = {
                 return Response;
 
 
-
-
-
-
             } catch (error) {
                 console.log(error);
             }
