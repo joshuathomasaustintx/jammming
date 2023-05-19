@@ -1,3 +1,11 @@
+#Intro to Jammming
+
+Jammming is a Spotify playlist creation app.  Users can generate playlists by adding search terms in the app, adding the results to a list, and saving the list to their Spotify account.
+
+The application is hosted and can be used at this URL:   https://joshuathomasaustintx.github.io/jammming/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
